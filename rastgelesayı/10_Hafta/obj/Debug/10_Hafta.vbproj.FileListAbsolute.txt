@@ -1,0 +1,10 @@
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\bin\Debug\10_Hafta.exe.config
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\bin\Debug\10_Hafta.exe
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\bin\Debug\10_Hafta.pdb
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\bin\Debug\10_Hafta.xml
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\obj\Debug\_10_Hafta.Form1.resources
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\obj\Debug\_10_Hafta.Resources.resources
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\obj\Debug\10_Hafta.vbproj.GenerateResource.Cache
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\obj\Debug\10_Hafta.exe
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\obj\Debug\10_Hafta.xml
+D:\Yeni klasör (2)\10_Hafta\10_Hafta\obj\Debug\10_Hafta.pdb
